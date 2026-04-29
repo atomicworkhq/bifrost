@@ -15,12 +15,12 @@
     "@types/node": "^22.10.0",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
-    "@vitest/coverage-v8": "^2.1.0",
-    "@vitest/ui": "^2.1.0",
+    "@vitest/coverage-v8": "^4.1.5",
+    "@vitest/ui": "^4.1.5",
     "dotenv": "^16.4.0",
     "eslint": "^9.0.0",
     "typescript": "^5.7.0",
-    "vitest": "^2.1.0"
+    "vitest": "^4.1.5"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.71.2",
@@ -28,10 +28,10 @@
     "@aws-sdk/client-bedrock-runtime": "^3.965.0",
     "@google/generative-ai": "^0.24.1",
     "@langchain/anthropic": "^1.3.26",
-    "@langchain/core": "^1.1.39",
-    "@langchain/google-genai": "^2.1.26",
+    "@langchain/core": "^1.1.42",
+    "@langchain/google-genai": "^2.1.29",
     "@langchain/openai": "^1.4.4",
-    "langsmith": "^0.5.19",
+    "langsmith": "^0.5.26",
     "openai": "^6.15.0",
     "yaml": "^2.6.0",
     "zod": "^3.24.0"
